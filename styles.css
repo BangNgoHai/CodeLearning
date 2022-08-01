@@ -1,0 +1,30 @@
+h1{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+h2{
+    color: white;
+    font-size: 25px;
+}
+body{
+    background-color: #A2D9CE;
+    font-family: Arial, sans-serif;
+    width: 1680px;
+    text-align: center;
+    height: 500px;
+    margin: 50px 1600px 50px 0;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+}
+button{
+    background-color: #83a748;
+}
+button:hover{
+    background-color: white;
+}

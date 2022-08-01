@@ -1,0 +1,11 @@
+h2{
+	color: white;
+}
+body{
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: larger;	
+	background-color: #3399FF;
+	width: 1680px;
+	height: 100px;
+}
